@@ -1,0 +1,19 @@
+# Datasets
+*.csv
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Presentation and documents (unless explicitly tracked)
+# *.pptx
+# *.pdf
+# *.docx
+
+# Serialized models
+*.pkl
+
+# Local folders
+temp_csv/
+Sync404_Final_Submission/
+*.zip
