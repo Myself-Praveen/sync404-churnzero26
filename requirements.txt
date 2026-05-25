@@ -1,0 +1,11 @@
+# ChurnZero 26 — Sync404
+# Install: pip install -r requirements.txt
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+scipy>=1.11
+lightgbm>=4.0
+xgboost>=2.0
+catboost>=1.2
+shap>=0.43
+joblib>=1.3
